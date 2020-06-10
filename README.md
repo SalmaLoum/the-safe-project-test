@@ -7,4 +7,4 @@ SAFE is an acronym for Sexual Assault Forensic Examinations/Examiners. The SAFE 
 <br>
 A scrollytelly site generator called [idyll-lang](https://idyll-lang.org/) was used to generate the CSS however, throughout the process it heavily customized. 
 React components were created to support the template.
-Interactive map built through [Flourish](https://public.flourish.studio/visualisation/1021154/) & teh database is included in the data folder. 
+Interactive map built through [Flourish](https://public.flourish.studio/visualisation/1021154/) & the database used is included in the data folder. 
