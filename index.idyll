@@ -16,7 +16,7 @@
 
     [step]
 
-      [img src: "/static/images/quote.png" /]
+      [img src: "static/images/quote.png" /]
       [br/]
       These are an example of the questions a sexual assault survivor will answer on the California adult sexual assault forensic medical report form [link text: "Cal OES 2-923" url:"https://www.ccfmtc.org/forensic-medical-examination-forms/"/] 
       to begin their arduous journey of reporting their sexual assault.
@@ -237,7 +237,7 @@
       [link text: "National Sexual Violence Resource Center" url:"http://www.nsvrc.org/"/]
       [br/]
 
-      Child Sexual and Physical Abuse Neglect Links:
+      Child Sexual and Physical Abuse Links:
       [br/]
       [link text: "National Clearinghouse on Child Abuse and Neglect" url:"https://www.hhs.gov/answers/programs-for-families-and-children/what-are-the-signs-of-child-abuse/index.html"/]
       [br/]
