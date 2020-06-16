@@ -1425,7 +1425,7 @@ blockquote + blockquote {
 		}
 
 	iframe {
-		margin: 0 -25px;
+		margin: 3 -25px;
 		width: 60vw;
 		height: 30vw;
 	}
@@ -1478,6 +1478,12 @@ blockquote + blockquote {
 	}
 
 	/* video */
+	iframe {
+		margin: 3 -25px;
+		width: 80vw;
+		height: 40vw;
+	}
+
 	.video-embed {
 		width: 50%;
 	}		
