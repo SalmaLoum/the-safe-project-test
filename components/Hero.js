@@ -18,7 +18,7 @@ class Hero extends React.PureComponent {
 
         <h3>Trigger warning : </h3>
         <h3>This piece contains information about sexual assault</h3>
-        <p> In the United States, survivors of sexual assault must endure a lengthy, invasive physical and verbal examination to help authorities gather evidence to pursue and press charges against their attackers.
+        <p> In the United States, many survivors of sexual assault must endure a lengthy, invasive physical and verbal examination to help authorities gather evidence to pursue and press charges against their attackers.
           Survivors who endure this process, known as the Sexual Assault Forensic Examination, or SAFE, often see their exam results languish in a backlog of cases. 
           This project seeks to illustrate the experience of sexual assault survivors who go through the SAFE process.
           Use the menu above to jump to a particular section, or scroll through the project to learn more, watch videos, and experience a first person prespective a SAFE exam in virtual reality.
