@@ -3,7 +3,7 @@ html body {
 	font-size: 18px !important;
 	font-family: "nyt-cheltenham", "times new roman";
 	background: black;
-	line-height: 2;
+	/* line-height: 2; */
 	color: white;
 }
 
@@ -151,7 +151,7 @@ h1, h2 {
 }
 
 h1, h2, h3, h4 {
-	line-height: 3em;
+	line-height: 1.5em;
 }
 
 h1 {
@@ -336,9 +336,9 @@ blockquote + blockquote {
 		}
 
 	iframe {
-		margin: 0 -25px;
-		width: 100vw;
-		height: 57vw;
+		margin: 3 -25px;
+		width: 60vw;
+		height: 30vw;
 	}
 
 	.idyll-text-container {
@@ -389,6 +389,12 @@ blockquote + blockquote {
 	}
 
 	/* video */
+	iframe {
+		margin: 3 -25px;
+		width: 80vw;
+		height: 40vw;
+	}
+
 	.video-embed {
 		width: 50%;
 	}		
